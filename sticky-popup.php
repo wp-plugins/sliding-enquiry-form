@@ -11,7 +11,7 @@
  * Plugin Name: 	Sliding Enquiry Form
  * Description: 	Sliding Enquiry Form is a simple and easy wordpress plugin used to add popup on CSS3 animations. Show html code and shortcodes in popup.
  * Version: 1.0
- * Author: 			James
+ * Author: 			Jaimin Suthar
  * Text Domain: 	Sliding Enquiry Form
  * License: 		Open Source 
  */
