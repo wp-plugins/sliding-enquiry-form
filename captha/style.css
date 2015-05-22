@@ -1,0 +1,122 @@
+/* 
+	author: istockphp.com
+*/
+body { 
+	font-family: sans-serif;
+	font-size:13px;
+
+	color:#444444;
+}
+p { 
+	padding:2px 
+
+}
+#wrap { 
+	width:750px; 
+	padding:20px; 
+	margin:20px auto;
+	background:#fff;
+	border:1px solid #cc;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+div#wrap2 {
+    border: 1px solid #CCCCCC;
+    margin-bottom: 10px;
+    padding:15px;
+	
+	
+}
+h2.free_account {
+    color: #3399FF;
+    display: block;
+    margin-bottom: 25px;
+	margin-left:212px;
+}
+.label 
+{ 
+	display:inline-block; /* with block na */
+	width:175px;
+	font-weight:bold;
+	alignment-adjust:central;
+	margin-bottom:5px;
+	float:right;
+	text-align:right;
+	margin-right:6px;
+	
+}
+form#register_form label:after { 
+	content:":"
+}
+.input
+ { 
+	display:inline-none; /* with block na */
+	width:250px;
+	border:1px solid #ccc;
+	margin:0;
+	padding:5px;
+	margin-bottom:5px;
+	
+	
+	
+}
+.select {
+    border: 1px solid #CCCCCC;
+    display: inline-block;
+    margin: 0;
+    padding: 5px 0;
+    width:64px;
+	margin-bottom:5px;
+}
+.submit
+ { 
+	border:1px solid #3399FF;
+	background:#3399FF;
+	border-radius: 5px;
+	margin:10px;
+	color:#FFF;
+	padding:5px;
+	font-weight:bold;
+	width:167px;
+	font-size:18px;
+}
+form#register_form input[name='submit'] { 
+	cursor:pointer;
+}
+.validate_msg 
+{
+  	width:270px;
+	margin-bottom:15px;
+	alignment-adjust:middle;
+}
+span.validate  {
+	color:#F00;
+	padding-left:8px;
+	font-style:italic;
+}
+
+
+.select1
+ {
+	
+	border: 1px solid #CCCCCC;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    width:250px;
+	margin-bottom:5px
+}
+.textarea
+{
+
+    display:inline-none; /* with block na */
+	width:250px;
+	border:1px solid #ccc;
+	margin:0;
+	padding:5px;
+	margin-bottom:5px;
+	height:40px;
+
+}
+
+	
