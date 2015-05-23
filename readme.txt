@@ -1,11 +1,10 @@
 === Sliding Enquiry Form ===
 Contributors: Jaimin Suthar
 Donate link: http://jaimindeveloper.ml/
-Authors link: http://kitycreation.com/demo/
 Tags: Sliding Enquiry Form, icon,css3,jquery,css3 effects,feedback
 Requires at least: 3.6
-Tested up to: 4.0
-Stable tag: 1.2
+Tested up to: 4.2.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -3,9 +3,9 @@
  * Sliding Enquiry Form main plugin file
  *
  * @package   Sliding Enquiry Form
- * @author    James <suthar.jems07@gmail.com>
+ * @author    Jaimin Suthar <suthar.jems07@gmail.com>
  * @license   GPL-2.0+
- * @demo      http://kitycreation.com/demo/
+ * @demo      http://smoexpert.in/
  *
  * @wordpress-plugin
  * Plugin Name: 	Sliding Enquiry Form

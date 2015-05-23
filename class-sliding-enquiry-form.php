@@ -3,9 +3,9 @@
  * Sliding Enquiry Form Class
  *
  * @package   Sliding Enquiry Form
- * @author    James
+ * @author    Jaimin Suthar
  * @license   Open Source 
- * @demo link  http://kitycreation.com/demo/
+ * @demo link  http://smoexpert.in/
  */
 
 /**
@@ -822,7 +822,7 @@ class Sliding_Enquiry {
 				$enquiry_html .= '<div style="clear">&nbsp;</div>';
 				$enquiry_html .= '<h3>Powered By</h3>';
 				$enquiry_html .= '<div style="clear"></div>';
-				$enquiry_html .= '<span><img src="'.plugins_url().'/sliding-enquiry-form/images/km-small.png" alt="" /></span>';
+				//$enquiry_html .= '<span><img src="'.plugins_url().'/sliding-enquiry-form/images/small.png" alt="" /></span>';
 				$enquiry_html .= '</div>';
 				$enquiry_html .= '</div>';
 				
