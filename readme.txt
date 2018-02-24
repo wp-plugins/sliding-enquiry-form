@@ -1,6 +1,6 @@
 === Sliding Enquiry Form ===
 Contributors: Jaimin Suthar
-Donate link: http://jaimindeveloper.ml/
+Donate link: https://jaimindeveloper.github.io
 Tags: Sliding Enquiry Form, icon,css3,jquery,css3 effects,feedback
 Requires at least: 3.6
 Tested up to: 4.2.2
